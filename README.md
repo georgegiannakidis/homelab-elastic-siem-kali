@@ -26,7 +26,7 @@ This setup provided practical exposure to cybersecurity monitoring, log analysis
 - Created a new deployment with Elasticsearch and Kibana.
 - Monitored the deployment's health and status. Below is the screenshot of the Elastic deployment in my environment:
 
-  ![SIEM Deployment](./images/My%20SIEM%20deployment%20in%20elastic.jpg)
+  ![SIEM Deployment](./images/SIEM_deployment_in_elastic.jpg)
 
 ### 2. 🖥️ Kali Linux Setup
 
@@ -39,11 +39,11 @@ This setup provided practical exposure to cybersecurity monitoring, log analysis
   
   Example of an `nmap` scan event captured in the logs:
   
-  ![Nmap Event in Logs](./images/Nmap%20scan%20in%20logs.jpg)
+  ![Nmap Event in Logs](./images/Nmap_scan_in_logs.jpg)
 
 - Here is a view of the raw logs of the security events processed:
 
-  ![SIEM Logs](./images/SIEM%20logs.jpg)
+  ![SIEM Logs](./images/SIEM_logs.jpg)
 
 ### 4. 📣 Alert Configuration
 
@@ -51,7 +51,7 @@ This setup provided practical exposure to cybersecurity monitoring, log analysis
 
   Below is a screenshot of the alert email I received after configuring a detection rule:
 
-  ![Email Alert](./images/Email%20alert%20from%20my%20create%20rule.jpg)
+  ![Email Alert](./images/Email_alert_from_my_created_rule.jpg)
 
 ### 5. 📊 Visualizations & Dashboards
 
